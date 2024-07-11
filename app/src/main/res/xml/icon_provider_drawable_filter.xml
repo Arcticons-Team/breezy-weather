@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <item name="weather_clear_day" value="weather_clear_day_pixel" />
-    <item name="weather_clear_day_1" value="weather_clear_day_pixel" />
-    <item name="weather_clear_day_2" value="weather_clear_day_pixel" />
+    <item name="weather_clear_day" value="weather_clear_day" />
+    <item name="weather_clear_day_1" value="weather_clear_day" />
+    <item name="weather_clear_day_2" value="weather_clear_day" />
 
     <item name="weather_clear_night" value="weather_clear_night_pixel" />
     <item name="weather_clear_night_1" value="weather_clear_night_pixel" />
@@ -17,9 +17,9 @@
     <item name="weather_partly_cloudy_night_1" value="weather_partly_cloudy_mini" />
     <item name="weather_partly_cloudy_night_2" value="weather_partly_cloudy_night_pixel_moon" />
 
-    <item name="weather_cloudy_day" value="weather_cloudy_pixel" />
-    <item name="weather_cloudy_day_1" value="weather_cloudy_1" />
-    <item name="weather_cloudy_day_2" value="weather_cloudy_2" />
+    <item name="weather_cloudy_day" value="weather_cloudy" />
+    <item name="weather_cloudy_day_1" value="weather_cloudy" />
+    <item name="weather_cloudy_day_2" value="weather_cloudy" />
 
     <item name="weather_cloudy_night" value="weather_cloudy_pixel" />
     <item name="weather_cloudy_night_1" value="weather_cloudy_1" />

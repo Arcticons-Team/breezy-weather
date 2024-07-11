@@ -6,15 +6,12 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/ic_launcher"
+        android:icon="@drawable/arcticons"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@drawable/arcticons"
         android:supportsRtl="true"
         android:theme="@style/Theme.ArcticonsForBreezyWeather"
         tools:targetApi="31">
-        <meta-data
-            android:name="org.breezyweather.PROVIDER_CONFIG"
-            android:resource="@xml/config" />
         <meta-data
             android:name="org.breezyweather.PROVIDER_CONFIG"
             android:resource="@xml/icon_provider_config" />
@@ -23,13 +20,13 @@
             android:resource="@xml/icon_provider_drawable_filter" />
         <meta-data
             android:name="org.breezyweather.ANIMATOR_FILTER"
-            android:resource="@xml/icon_provider_animator_filter" />
+            android:resource="@xml/icon_provider_animator_filter" />                        
         <meta-data
             android:name="org.breezyweather.SHORTCUT_FILTER"
             android:resource="@xml/icon_provider_shortcut_filter" />
         <meta-data
             android:name="org.breezyweather.SUN_MOON_FILTER"
-            android:resource="@xml/icon_provider_sun_moon_filter" />        
+            android:resource="@xml/icon_provider_sun_moon_filter" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
