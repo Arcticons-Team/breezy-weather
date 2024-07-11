@@ -1,0 +1,6 @@
+<config
+    hasWeatherIcons="true"
+    hasWeatherAnimators="false"
+    hasMinimalIcons="true"
+    hasShortcutIcons="true"
+    hasSunMoonDrawables="true" />
