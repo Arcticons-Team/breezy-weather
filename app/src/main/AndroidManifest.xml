@@ -20,7 +20,7 @@
             android:resource="@xml/icon_provider_drawable_filter" />
         <meta-data
             android:name="org.breezyweather.ANIMATOR_FILTER"
-            android:resource="@xml/icon_provider_animator_filter" />                        
+            android:resource="@xml/icon_provider_animator_filter" />
         <meta-data
             android:name="org.breezyweather.SHORTCUT_FILTER"
             android:resource="@xml/icon_provider_shortcut_filter" />
